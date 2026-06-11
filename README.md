@@ -48,7 +48,7 @@ While raw cricket statistics are widely available, evaluating a player's long-te
 Here is a look at the interactive dashboard interfaces built in Power BI:
 
 #### 1. Career Overview & Format Analysis
-![Dashboard Overview Panel](https://github.com/YOUR_USERNAME/Rohit-Sharma-Carrer-stats-dashboard/raw/main/assets/overview_dashboard.png)
+![Dashboard Overview Panel]([https://github.com/YOUR_USERNAME/Rohit-Sharma-Carrer-stats-dashboard/raw/main/assets/overview_dashboard.png](https://github.com/Priyansh9112004/Rohit-Sharma-Carrer-stats-dashboard/blob/main/RS.png))
 
 #### 2. Milestone Deep-Dive & Match-Winner Impact
-![Milestone and Analytics View](https://github.com/YOUR_USERNAME/Rohit-Sharma-Carrer-stats-dashboard/raw/main/assets/milestone_dashboard.png)
+![Milestone and Analytics View]([https://github.com/YOUR_USERNAME/Rohit-Sharma-Carrer-stats-dashboard/raw/main/assets/milestone_dashboard.png](https://github.com/Priyansh9112004/Rohit-Sharma-Carrer-stats-dashboard/blob/main/RS.png))
